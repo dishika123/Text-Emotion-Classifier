@@ -1,7 +1,5 @@
 # Text-Emotion-Classifier
 
-Text Emotion Classification System
-
 A full-stack NLP application that classifies the emotional tone of user-generated text using Transformer-based models. Built with FastAPI, Streamlit, HuggingFace Transformers, SQLite, and SQLAlchemy, this project demonstrates real-time inference, visualizations, and database-backed prediction history.
 
 🚀 Features
